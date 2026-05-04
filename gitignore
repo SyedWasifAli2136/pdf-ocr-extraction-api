@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Virtual environments
+venv/
+env/
+.env
+.venv
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project runtime directories (keep structure, ignore contents)
+sample_pdfs/*
+!sample_pdfs/.gitkeep
+output_pdfs/*
+!output_pdfs/.gitkeep
+extracted_texts/*
+!extracted_texts/.gitkeep
+
+# Output files
+extracted_texts.json
+temp_page_*.png
+
+# Logs
+*.log

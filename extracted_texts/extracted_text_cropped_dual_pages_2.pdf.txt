@@ -1,0 +1,154 @@
+
+--- Page 1 ---
+Client#: 57166
+BCBHO
+ACORD
+ DATE (MM/DD/YYYY)
+CERTIFICATE OF LIABILITY INSURANCE
+7/18/2024
+CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR ALTER THE COVERAGE AFFORDED BY THE POLICIESS
+BELOW. THIS CERTIFICATE OF INSURANCE DOES NOT CONSTITUTE A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZEDS
+REPRESENTATIVE OR PRODUCER, AND THE CERTIFICATE HOLDER.
+IMPORTANT: If the certificate holder is an ADDITIONAL INSURED, the policy(ies) must have ADDITIONAL INSURED provisions or be endorsed.
+If SUBROGATION IS wAIVED, subject to the terms and conditions of the policy, certain policies may require an endorsement. A statement on
+this certificate does not confer any rights to the certificate holder in lieu of such endorsement(s)..
+PRODUCER
+Acrisue, LLC
+AC, N 000 000-000
+4100 Goodlette Road North
+5BBREss: xxx@xxxx.com
+Naples, FL 34103 -3303
+INSURER(S) AFFORDING COVERAGE
+NAIC #
+239 261-3646
+INSURER A : Name of Insurance Company
+00000
+INSURED
+INSURER B : Name of Insurance Company
+00000
+SAMPLE CERTIFICATE REQUIREMENTS
+INSURER C : Name of Insurance Company
+00000
+NAME AND ADDRESS
+ INSURER D : Name of Insurance Company
+00000
+OF ENTITY DOING BUSINESS FOR YOU
+INSURER E :
+ INSURER F :
+COVERAGES
+CERTIFICATE NUMBER:
+REVISION NUMBER:
+THIS IS TO CERTIFY THAT THE POLICIES OF INSURANCE LISTED BELOW HAVE BEEN ISSUED TO THE INSURED NAMED ABOVE FOR THE POLICY PERIOD
+INDICATED. NOTWITHSTANDING ANY REQUIREMENT, TERM OR CONDITION OF ANY CONTRACT OR OTHER DOCUMENT WITH RESPECT TO WHICH THIS
+EXCLUSIONS AND CONDITIONS OF SUCH POLICIES. LIMITS SHOWN MAY HAVE BEEN REDUCED BY PAID CLAIMS.
+INSR
+ADDLSUBR
+TYPE OF INSURANCE
+iNSR WVD
+POLICY NUMBER
+Limits
+A
+ COMMERCIAL GENERAL LIABILITY
+X
+X
+12345
+00/01/20XX00/01/20XXEACH OCCURRENCE
+$1,000,000
+CLAIMS-MADE
+ OCCUR
+$100,000
+MED EXP (Any one person)
+$5,000
+ PERSONAL & ADV INJURY
+ $1,000,000
+ GEN'L AGGREGATE LIMIT APPLIES PER:
+GENERAL AGGREGATE
+ $2,000,000
+LOC
+PRODUCTS - COMP/OP AGG
+$2,000,000
+OTHER:
+$
+A
+ AUTOMOBILE LIABILITY
+X
+x
+12345
+$1,000,000
+XANY AUTO
+ BODILY INJURY (Per person)
+SCHEDULED
+ BODILY INJURY (Per accident)
+AUTOS
+x AUF8S ONLY
+NON-OWNED
+PROPERTY DAMAGE
+X
+AUTOS ONLY
+A
+xUmBreLLa LIAB
+x
+x12345
+XOCCUR
+00/01/20XX00/01/20XXEACH OCCURRENCE
+$1,000,000
+EXCESS LIAB
+CLAIMS-MADE
+AGGREGATE
+$1,000,000
+DED
+ RETENTION $
+C
+WORKERS COMPENSATION
+X
+12345
+TH-
+AND EMPLOYERS' LIABILITY
+YIN
+ANY PROPRIETOR/PARTNER/EXECUTIVE
+E.L. EACH ACCIDENT
+$500,000
+NNIA
+(Mandatory in NH)
+E.L. DISEASE - EA EMPLOYEE $500,000
+If yes, describe under
+DESCRIPTION OF OPERATIONS below
+E.L. DISEASE - POLICY LIMIT  $500,000
+B
+Professional
+1234
+00/01/20XX 00/01/20XX 1,000,000
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES (ACORD 101, Additional Remarks Schedule, may be attached if more space is required)
+List all entities required per contract. Attach all endorsements including the per project aggregate.] The
+Certificate Holder(s), [enter all names(s)] are named as additional insured with the regards to the General.
+Liability, Auto & Umbrella on a primary non-contributory basis, including Ongoing and Completed
+Operations on the General Liability, per form number(s).
+[attach]. A waiver of subrogation in favor.
+of the Certificate Holder(s) in regards to the General Liability, Employers Liability and Umbrella
+(See Attached Descriptions)
+ CERTIFICATE HOLDER
+CANCELLATION
+BCB Homes, Inc
+SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE
+THE
+EXPIRATION DATE THEREOF,  NOTICE WILL BE DELIVERED IN
+3696 Enterprise Avenue
+ACCORDANCE WITH THE POLICY PROVISIONS.E
+Suite 100
+Naples, FL 34104-3608
+AUTHORIZED REPRESENTATIVE
+Syar Fhui
+@ 1988-2015 ACORD CORPORATION. All rights reserved.
+ACORD 25 (2016/03)
+1 of 2
+The ACORD name and logo are registered marks of ACORD
+#S2090203/M2090200
+AMS21
+--- Page 2 ---
+DESCRIPTIONS (Continued from Page 1)
+ per form numbers(s)
+[attach]. The Umbrella follows form of the underlying General Liability, Auto.
+Liability and Employers Liability. 30 day Notice of Cancellation and 10 day notice for non-payment apply,
+in favor of the Certificate Holder(s) per the endorsement(s) attached on all the applicable policies.
+SAGITTA 25.3 (2016/03)2 of 2
+#S2090203/M2090200
