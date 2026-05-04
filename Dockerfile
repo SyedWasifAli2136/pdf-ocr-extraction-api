@@ -15,7 +15,7 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY src/ ./src/
+COPY app.py .
 
 # Create required directories
 RUN mkdir -p sample_pdfs output_pdfs extracted_texts
