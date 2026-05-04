@@ -32,11 +32,11 @@ A production-ready FastAPI service that automates **PDF cropping** and **text ex
 ```
 pdf-ocr-extraction-api/
 │
-├── src/
-│   ├── app.py                  # FastAPI app — all API endpoints
-│   ├── crop_pdf.py             # Single PDF cropping logic (PyMuPDF)
-│   ├── crop_pdf_files.py       # Batch PDF cropping with prefix-based rules
-│   └── ocr_engine.py           # PaddleOCR text extraction (PDF + image)
+│
+├── app.py                  # FastAPI app — all API endpoints
+├── crop_pdf.py             # Single PDF cropping logic (PyMuPDF)
+├── crop_pdf_files.py       # Batch PDF cropping with prefix-based rules
+├── ocr_engine.py           # PaddleOCR text extraction (PDF + image)
 │
 ├── sample_pdfs/                # Upload directory for input PDFs
 ├── output_pdfs/                # Cropped PDFs output directory
